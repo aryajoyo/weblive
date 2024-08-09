@@ -1,6 +1,6 @@
 {
-    "name": "agora_live",
-    "short_name": "agora_live",
+    "name": "game_test_all",
+    "short_name": "game_test_all",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
